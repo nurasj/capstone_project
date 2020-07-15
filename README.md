@@ -21,4 +21,3 @@ Conclusion section where you conclude the report.
 2. A link to your Notebook on your Github repository pushed showing your code. (15 marks)
 3. Your choice of a presentation or blogpost. (10 marks)
 
-# Section 1: Introduction
